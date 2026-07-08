@@ -19,17 +19,17 @@ The dataset contains information about traffic accidents, including variables su
 - Build an interactive Tableau dashboard
 
 ## Python Dashboard
-•	Figure 1: Crash Counts and Environmental Conditions
-•	Figure 2: Accidents and Maximum Injuries by Number of Vehicles
-•	Figure 3: Intersection Related Accidents and Injuries
-•	Figure 4: Number of Accidents by Damage Cost
+-	Figure 1: Crash Counts and Environmental Conditions
+-	Figure 2: Accidents and Maximum Injuries by Number of Vehicles
+-	Figure 3: Intersection Related Accidents and Injuries
+-	Figure 4: Number of Accidents by Damage Cost
 
 
 ## Tableau Dashboard
-•	Figure 5: Accident and Injury Comparison by First Crash Type
-•	Figure 6: Monthly Accident Trends by Year
-•	Figure 7: Accident Frequency by Day and Time
-•	Figure 8: Yearly Injury Totals by Primary Contributing Cause
+-	Figure 5: Accident and Injury Comparison by First Crash Type
+-	Figure 6: Monthly Accident Trends by Year
+-	Figure 7: Accident Frequency by Day and Time
+-	Figure 8: Yearly Injury Totals by Primary Contributing Cause
 
 ## key findings
 Some of the insights obtained from the analysis include:
